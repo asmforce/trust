@@ -342,7 +342,24 @@ function SandboxUI(config){
 	sliders.push(slider_turns);
 	slider_turns.slideshow = self.slideshow;
 	listen(self, "rules/turns",function(value){
-		var words = (value==1) ? Words.get("sandbox_rules_1_single") : Words.get("sandbox_rules_1"); // plural?
+		var words;
+
+		// Least-significant digit
+		var lsd = value % 10;
+
+		if (value == 1 || value > 20 && lsd == 1) {
+			words = Words.get("sandbox_rules_1_single");
+		} else {
+			if (lsd > 1 && lsd < 5 && (value < 10 || value > 20)) {
+				words = Words.get("sandbox_rules_1_few");
+				if (!words) {
+					words = Words.get("sandbox_rules_1");
+				}
+			} else {
+				words = Words.get("sandbox_rules_1");
+			}
+		}
+
 		words = words.replace(/\[N\]/g, value+""); // replace [N] with the number value
 		rule_turns.innerHTML = words;
 	});

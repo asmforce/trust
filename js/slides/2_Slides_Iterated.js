@@ -231,7 +231,7 @@ SLIDES.push({
 		// Score
 		self.add({
 			id:"score2", type:"TextBox",
-			x:114, y:44, width:151, height:132, align:"right", size:123,
+			x:114, y:55, width:151, height:132, align:"right", size:123,
 			text: _.yourTotalScore+""
 		});
 

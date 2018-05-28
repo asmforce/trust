@@ -1,7 +1,7 @@
 @font-face{
-	font-family: 'FuturaHandwritten';
+	font-family: 'Neucha';
 	font-style: normal;
-	src: url('FuturaHandwritten.ttf') format('truetype');
+	src: url('../css/Neucha.ttf') format('truetype');
 }
 
 html,body{
@@ -16,9 +16,9 @@ body{
 
 	background: #fff;
 
-	font-family: 'FuturaHandwritten';
+	font-family: 'Neucha';
 	color: #333;
-	font-size: 20px;
+	font-size: 22px;
 
 }
 #preloader{
@@ -201,19 +201,23 @@ s{
 }
 .button #text{
 	
-	font-family: 'FuturaHandwritten';
+	font-family: 'Neucha';
 	color: #000;
-	font-size: 24px;
+	font-size: 22px;
 
+	line-height: 30px;
 	width: 180px;
 	height: 30px;
 	text-align: center;
 
 	position: absolute;
 	top:14px; left:5px;
+	margin-top: 2px;
 
 	cursor: default;
 
+	text-overflow: ellipsis;
+	white-space: nowrap;
 }
 .button #hitbox{
 	position: absolute;
