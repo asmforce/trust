@@ -1,90 +1,89 @@
-!["The Evolution of Trust"](https://i.imgur.com/kde760y.png)
+![«Еволюція довіри»](https://asmforce.github.io/trust/social/github.png)
 
-#	PLAY IT HERE: [http://ncase.me/trust/](http://ncase.me/trust/)
+#	ГРАТИ ТУТ: [https://asmforce.github.io/trust/](https://asmforce.github.io/trust/)
 
-*The Evolution of Trust* is dedicated to the public domain, and is made thanks to the many Creative Commons & open source resources out there! Here is a full list of music, sounds, and code used:
+*Еволюція довіри* створена завдяки багатьом вільно поширюваним (за ліцензією Creative Commons та/або Open Source) творам звідусіль і з волі автора передається у суспільне надбання! Далі наведено повний перелік використаних звуків, музики та коду:
 
-**Music:** "Bleu" by Komiku (CC Zero). [Download their full album on Free Music Archive](http://freemusicarchive.org/music/Komiku/Its_time_for_adventure_/)
+**Музика:** «Bleu» від Komiku (CC Zero). [Завантажити ввесь їхній альбом з Free Music Archive](http://freemusicarchive.org/music/Komiku/Its_time_for_adventure_/)
 
-**Sound Effects:**
+**Звуки:**
 
-* [Coin insert](https://freesound.org/people/bassmosphere/sounds/384700/) by bassmosphere (CC Zero)
-* [Coin get!](https://freesound.org/people/plasterbrain/sounds/242857/) by plasterbrain (CC Zero)
-* [Evil Laugh](https://freesound.org/people/JohnsonBrandEditing/sounds/173933/) by JohnsonBrandEditing (CC Zero)
-* [Slot machine](https://freesound.org/people/lukaso/sounds/69689/) by lukaso (CC Sampling+)
-* [Drumroll](https://freesound.org/people/adriann/sounds/191718/) by adriann (CC Zero)
-* [click plink pop boop bonk](https://freesound.org/people/Owdeo/sounds/116653/) by Owdeo (CC BY-NC)
-* [Swoosh](https://freesound.org/people/aglinder/sounds/264468/) by aglinder (CC Zero)
-* [Squeaky Toy](https://freesound.org/people/survivalzombie/sounds/240015/) by survivalzombie (CC Zero)
-* [Thump](https://freesound.org/people/Brokenphono/sounds/344149/) by Brokenphono (CC Zero)
-* [Fart](https://freesound.org/people/DSISStudios/sounds/241000/) by DSISStudios (CC Zero)
+* [Coin insert](https://freesound.org/people/bassmosphere/sounds/384700/) від bassmosphere (CC Zero)
+* [Coin get!](https://freesound.org/people/plasterbrain/sounds/242857/) від plasterbrain (CC Zero)
+* [Evil Laugh](https://freesound.org/people/JohnsonBrandEditing/sounds/173933/) від JohnsonBrandEditing (CC Zero)
+* [Slot machine](https://freesound.org/people/lukaso/sounds/69689/) від lukaso (CC Sampling+)
+* [Drumroll](https://freesound.org/people/adriann/sounds/191718/) від adriann (CC Zero)
+* [click plink pop boop bonk](https://freesound.org/people/Owdeo/sounds/116653/) від Owdeo (CC BY-NC)
+* [Swoosh](https://freesound.org/people/aglinder/sounds/264468/) від aglinder (CC Zero)
+* [Squeaky Toy](https://freesound.org/people/survivalzombie/sounds/240015/) від survivalzombie (CC Zero)
+* [Thump](https://freesound.org/people/Brokenphono/sounds/344149/) від Brokenphono (CC Zero)
+* [Fart](https://freesound.org/people/DSISStudios/sounds/241000/) від DSISStudios (CC Zero)
 
-**Open Source Libraries:**
+**Вільні бібліотеки (Open Source):**
 
-* [PIXI.js](http://www.pixijs.com/) for rendering graphics
-* [Howler.js](https://howlerjs.com/) for the audio
-* [Tween.js](http://www.createjs.com/tweenjs) for tweening animation
-* [Balloon.css](https://kazzkiq.github.io/balloon.css/) for pop-up tooltips
-* [Q](https://github.com/kriskowal/q/) for promises
-* [MinPubSub](https://github.com/daniellmb/MinPubSub) for publish/subscribe
-* [Pegasus](https://github.com/typicode/pegasus) for me being too lazy to write my own XHR
+* [PIXI.js](http://www.pixijs.com/) для відтворення графіки
+* [Howler.js](https://howlerjs.com/) для роботи зі звуком
+* [Tween.js](http://www.createjs.com/tweenjs) для анімації
+* [Balloon.css](https://kazzkiq.github.io/balloon.css/) для вигулькни́х підказок
+* [Q](https://github.com/kriskowal/q/) для об'єктів-обіцянок (promises)
+* [MinPubSub](https://github.com/daniellmb/MinPubSub) для publish/subscribe
+* [Pegasus](https://github.com/typicode/pegasus) для мене, надто ледачого для написання XHR
 
-**Font:** [Neucha](https://fonts.google.com/specimen/Neucha) by Jovanny Lemonad
+**Шрифт:** [Neucha](https://fonts.google.com/specimen/Neucha) від Jovanny Lemonad
 
-#	How-To: Translate this thang!
+#	Як перекласти цей витвір!
 
-**[IMPORTANT:
-BEFORE YOU DECIDE TO MAKE A TRANSLATION, CHECK THE "ISSUES" TAB ABOVE,
-TO SEE IF SOMEONE ELSE IS ALREADY WORKING ON IT.
-If so, maybe you can collaborate!
-And if no one else is, PLEASE CREATE A NEW ISSUE in this repo
-so that others know you're working on it!]**
+**[УВАГА: ПЕРШ НІЖ БРАТИСЬ ДО РОБОТИ НАД ВЛАСНИМ ПЕРЕКЛАДОМ, ЗАЗИРНІТЬ ДО ВКЛАДКИ «ISSUES» НАГОРІ
+ТА ПЕРЕКОНАЙТЕСЬ, ЩО НІХТО ВАС НЕ ВИПЕРЕДИВ.
+Якщо хтось таки почав раніше від Вас, можете об'єднати свої зусилля!
+Якщо ніхто, то СТВОРІТЬ НОВИЙ «ISSUE» в [цьому](https://github.com/ncase/trust) репозиторії,
+щоб інші могли бачити, що Ви вже працюєте над тим перекладом!]**
 
-Translations done so far:
-[Japanese](https://htlife.github.io/trust_jp/),
-[Chinese (Simplified)](https://sekai.co/trust/),
-[Chinese (Taiwan)](https://audreyt.github.io/trust-zh-TW/),
-[Brazilian Portuguese](https://brunolemos.github.io/trust/),
-[French](https://ayowel.github.io/trust/),
-[Spain Spanish](https://ccamara.github.io/trust/),
-[Latin American Spanish](https://maeriens.github.io/trust/),
-[Russian](https://notdotteam.github.io/trust/),
-[German](https://jkoelling.github.io/trust/),
-[Italian](https://lvdt.github.io/trust/),
-[Turkish](https://osaatcioglu.github.io/trust),
-[Polish](https://sin.github.io/trust/),
-[Vietnamese](https://nghiatt90.github.io/trust-vn/),
-[Greek](https://lightspot21.github.io/trust/),
-[Persian/Farsi](https://hamed.github.io/trust/),
-[Hungarian](http://ncase.me/trust-hu/),
-[Catalan](https://fbricart.github.io/trust/),
-[Arabic](https://mudaraljundi.github.io/trust/),
-[Bulgarian](http://ncase.me/trust-bg/),
-[Korean](https://osori.github.io/trust-ko/),
-[Romanian](https://enfactorial.github.io/trust/),
-[Ukrainian](https://yaroslav-f.github.io/trust/),
-[Croatian](http://www.varljiv.org/evolucija-povjerenja/index.html),
-[Swedish](http://trust.alicedarner.se/),
-[Estonian](http://ncase.me/trust-et/)
+Нині доступні переклади:
+[японською](https://htlife.github.io/trust_jp/),
+[китайською (спрощеною)](https://sekai.co/trust/),
+[китайською (Тайвань)](https://audreyt.github.io/trust-zh-TW/),
+[бразильською португальською](https://brunolemos.github.io/trust/),
+[французькою](https://ayowel.github.io/trust/),
+[іспанською](https://ccamara.github.io/trust/),
+[латиноамериканською іспанською](https://maeriens.github.io/trust/),
+[московською](https://notdotteam.github.io/trust/),
+[німецькою](https://jkoelling.github.io/trust/),
+[італійською](https://lvdt.github.io/trust/),
+[турецькою](https://osaatcioglu.github.io/trust),
+[польською](https://sin.github.io/trust/),
+[в'єтнамською](https://nghiatt90.github.io/trust-vn/),
+[грецькою](https://lightspot21.github.io/trust/),
+[перською/фарсі](https://hamed.github.io/trust/),
+[угорською](http://ncase.me/trust-hu/),
+[каталанською](https://fbricart.github.io/trust/),
+[арабською](https://mudaraljundi.github.io/trust/),
+[болгарською](http://ncase.me/trust-bg/),
+[корейською](https://osori.github.io/trust-ko/),
+[румунською](https://enfactorial.github.io/trust/),
+[українською](https://asmforce.github.io/trust/) ([ще](https://androniq.github.io/), [ще один](https://yaroslav-f.github.io/trust/)),
+[хорватською](http://www.varljiv.org/evolucija-povjerenja/index.html),
+[шведською](http://trust.alicedarner.se/),
+[естонською](http://ncase.me/trust-et/)
 
-**Step 1)** Fork or download this repo    
-(if you're forking it, be sure to make sure *your* repo is on a branch called `gh-pages`, so that GitHub can automatically generate a webpage for it!)
+**Крок 1)** Створіть відгалуження (fork) [цього](https://github.com/ncase/trust) репозиторія, або ж завантажте його
+(якщо створюєте відгалуження, переконайтеся, що *Ваш* репозиторій перемкнуто на гілку `gh-pages`, щоб GitHub міг автоматично створити з нього web-сторінку);
 
-**Step 2)** Translate the following files:
+**Крок 2)** Перекладіть такі файли:
 
-`index.html` -- The title & social sharing text (a few words)    
-`words.html` -- All the words for the interactive itself (~3,300 words)    
-(optional) `notes/index.html` -- The footnotes (~1,100 words)    
-(optional) `peeps/index.html` -- The full credits (a few words)
+`index.html` — Заголовки й текст для поширення в суспільних мережах (кілька слів)  
+`words.html` — Рядки основного вмісту (~3,300 слів)  
+(необов'язково) `notes/index.html` — Післяслово (~1,100 слів)    
+(необов'язково) `peeps/index.html` — Всі подяки (кілька слів)
 
-**Step 3)** Remember to test your translation! You can test things locally using [http-server](https://www.npmjs.com/package/http-server) or [MAMP](https://www.mamp.info/en/).
+**Крок 3)** Обов'язково перевірте свій переклад! Це можна зробити за допомогою власного [http-сервера](https://www.npmjs.com/package/http-server) чи [MAMP](https://www.mamp.info/en/);
 
-**Step 4)** Email me with a link to your forked repo / the translated files, at `N {{at}} NCASE {{dot}} ME` There may be a few things here and there we need to fix! (also, if you run into any issues, please email me as well! I may take a while to respond since I'm away the next couple weeks)
+**Крок 4)** Надішліть мені листа із посиланням на Ваш репозиторій чи перекладені файли на адресу `N {{at}} NCASE {{dot}} ME` Можливо якісь дрібнички там чи там доведеться виправити! (Якщо ніяк не дасте собі раду із чимось, також звертайтеся поштою! Можливо, на відповідь доведеться трохи зачекати);
 
-**Step 5)** Wait for me to stop being busy and/or lazy and actually link your translated version from the main English version
+**Крок 5)** Зачекайте, доки я звільнюся чи здолаю лінощі та зрештою додам посилання на свій переклад до головної (англійської) версії;
 
-**Step 6)** Party! 🎉
+**Крок 6)** Звеселіться! 🎉
 
-#	"LICENSE"
+#	Ліцензія
 
-[Creative Commons Zero](https://github.com/ncase/trust/blob/gh-pages/LICENSE): it's a public domain dedication, so basically, do whatever you want! Attribution is super appreciated, but I'm not gonna send legal goons after you or anything.
+[Creative Commons Zero](https://github.com/ncase/trust/blob/gh-pages/LICENSE): то є ліцензія так званого суспільного надбання, тож загалом Ви можете робити все, що заманеться! За її зазначення буду невимовно вдячним, та раптом що — головорізів по Ваші душі не висилатиму.
